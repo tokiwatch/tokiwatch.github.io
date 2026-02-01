@@ -10,9 +10,9 @@
     <atom:link href="https://tokiwatch.github.io/categories/macports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>macportsにgauche0.90が反映された</title>
-      <link>https://tokiwatch.github.io/posts/2009-12-24-1220245978161138279/</link>
+      <link>https://tokiwatch.github.io/legacy/2009-12-24-1220245978161138279/</link>
       <pubDate>Thu, 24 Dec 2009 22:40:00 +0900</pubDate>
-      <guid>https://tokiwatch.github.io/posts/2009-12-24-1220245978161138279/</guid>
+      <guid>https://tokiwatch.github.io/legacy/2009-12-24-1220245978161138279/</guid>
       <description>&lt;p&gt;表題の通り。&lt;/p&gt;
 &lt;p&gt;これまで、buildを通すのに一苦労だったのだが、これで安心。&lt;/p&gt;</description>
     </item>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legacy on Bonfire Side</title>
+    <link>https://tokiwatch.github.io/categories/legacy/</link>
+    <description>Recent content in Legacy on Bonfire Side</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 19 Jan 2018 05:36:13 +0000</lastBuildDate>
+    <atom:link href="https://tokiwatch.github.io/categories/legacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoのバージョンを最新にした</title>
+      <link>https://tokiwatch.github.io/legacy/2018-01-19-hugo_update/</link>
+      <pubDate>Fri, 19 Jan 2018 05:36:13 +0000</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2018-01-19-hugo_update/</guid>
+      <description>&lt;p&gt;先日、hugoを0.31に戻したという記事を書いたのだが、なんだかんだと考えて、最新版にアップデートした。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugoに移行</title>
+      <link>https://tokiwatch.github.io/legacy/2017-10-29-hugo/</link>
+      <pubDate>Sun, 29 Oct 2017 05:34:57 +0000</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2017-10-29-hugo/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;blogのエンジンをHUGOに変更した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>リュックサックを買い直しました。</title>
+      <link>https://tokiwatch.github.io/legacy/2017-06-21-backpack/</link>
+      <pubDate>Wed, 21 Jun 2017 16:57:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2017-06-21-backpack/</guid>
+      <description>&lt;p&gt;以前のポストで、僕のバックパックを購入するときの基準をまとめたのだが、結局２週くらい回って、The North FaceのBigshot CLに戻ることになった。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>github pageに再度移行</title>
+      <link>https://tokiwatch.github.io/legacy/2017-05-09-move-to-github-page/</link>
+      <pubDate>Tue, 09 May 2017 00:42:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2017-05-09-move-to-github-page/</guid>
+      <description>&lt;p&gt;タイトルだけなのですが、github pagesに再度ブログを戻しました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>マネジメントはクリエイティブな仕事か？</title>
+      <link>https://tokiwatch.github.io/legacy/2016-12-30-management-is-creative/</link>
+      <pubDate>Fri, 30 Dec 2016 20:05:24 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-12-30-management-is-creative/</guid>
+      <description>&lt;p&gt;この世の中のあらゆるマネジメントが、とは言えないけれども、少なくとも、研究開発のマネジメントにはかなりのクリエイティブさが求められると思う。&lt;/p&gt;
+&lt;p&gt;マネジメントは、当然その対象となる仕事についての業務知識（必ずしも深い必要はなく、むしろ広く浅いほうがいい）は必要だが、それに加えて、「判断」と「コミュニケーション」の力が求められる。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SSHパスフレーズがKeychainに保存されなくなったら</title>
+      <link>https://tokiwatch.github.io/legacy/2016-12-29-save-ssh-keyphrase-on-macosx/</link>
+      <pubDate>Thu, 29 Dec 2016 13:55:12 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-12-29-save-ssh-keyphrase-on-macosx/</guid>
+      <description>&lt;p&gt;先日、MacOS10.12.2にアップデートしたところ、ターミナルで入力したSSHのパスフレーズがKeychainに保存されなくなった。&lt;/p&gt;
+&lt;p&gt;以下に解決方法手順を書いておく。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;~/.ssh/config を開く（なかったら作成する）&lt;/li&gt;
+&lt;li&gt;以下を記述&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;IdentityFile ~/.ssh/id_rsa
+AddKeysToAgent yes
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;以上&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>私達の理論的アプローチ（再掲）</title>
+      <link>https://tokiwatch.github.io/legacy/2016-12-15-design-method/</link>
+      <pubDate>Thu, 15 Dec 2016 21:19:58 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-12-15-design-method/</guid>
+      <description>&lt;p&gt;2015年2月9日に前の会社のブログで公開した記事が読めなくなっているようなので、一時的にこちらで掲示することにした。
+元記事のURLは&lt;a href=&#34;http://blog.allianceport.jp/aptv/2015/02/post-27.html&#34;&gt;http://blog.allianceport.jp/aptv/2015/02/post-27.html&lt;/a&gt;で公開されていた。本家のブログが再開されたらこの記事は消す。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;こんにちは。エンジニアの常盤です。&lt;/p&gt;
+&lt;p&gt;先日、当社の若いデザイナーが「うちはデザインするとき○○とか××とか使わないですね」(⚪︎⚪︎、××にはデザインアプローチなどの名前が入る)という話をしていました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>リュックサック選びの基準</title>
+      <link>https://tokiwatch.github.io/legacy/2016-12-04-rucksack/</link>
+      <pubDate>Sun, 04 Dec 2016 21:42:53 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-12-04-rucksack/</guid>
+      <description>&lt;p&gt;最近、僕の鉄板ネタが、リュックサックとMacについてだということを周囲から指摘され、あー確かにそうかも、と思う。&lt;/p&gt;
+&lt;p&gt;リュックサックは、腰椎を折ったり、ぎっくり腰になったりしたので、その予防のためには欠かせないものなので、毎回新しいものを買うときには真剣にならざるを得ないというのが真相なのだが。。。&lt;/p&gt;
+&lt;p&gt;これまでいろいろなメーカーのものを使ってきて、それぞれに一長一短はあるのだけど、押さえておいたほうがいい点はなんとなく固まってきているように思うので、この際なのでまとめておきたい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Octopressでサイトをsftpで公開</title>
+      <link>https://tokiwatch.github.io/legacy/2016-12-03-publish-via-sftp/</link>
+      <pubDate>Sat, 03 Dec 2016 22:01:55 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-12-03-publish-via-sftp/</guid>
+      <description>&lt;p&gt;このblogをgithub pagesからレンタルサーバに移行したので、手順を下記にまとめておく&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MTDDC2016 CMS座談会のモデレータをしました</title>
+      <link>https://tokiwatch.github.io/legacy/2016-11-16-mtddc-cms-zadankai/</link>
+      <pubDate>Wed, 16 Nov 2016 15:16:02 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-11-16-mtddc-cms-zadankai/</guid>
+      <description>&lt;p&gt;毎年恒例となってきている MTDDCですが、今年もCMS座談会の座長を担当させていただきました。&lt;/p&gt;
+&lt;p&gt;毎年、MTを筆頭（MTDDCですから）に各CMSのユーザ会から人をお招きして、僕が設定した無茶なお題に順番に答えて行っていただくという、全くもって無茶なイベントなのですが、毎度のことながら、各氏の回答が上手で、毎度のことですが、頭が下がります。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>リスクをとるのも練習</title>
+      <link>https://tokiwatch.github.io/legacy/2016-09-24-risk_take/</link>
+      <pubDate>Sat, 24 Sep 2016 15:53:50 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-09-24-risk_take/</guid>
+      <description>&lt;p&gt;しばらく前に、論文の書き方を教えてくれと言われて、いろいろ話したのだけど、結局は、書かないと書けるようにはならないよ。というのが結論であった。自転車の類と同じで、頭でわかったとしてもできるようにはならない。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自分に嘘をつく</title>
+      <link>https://tokiwatch.github.io/legacy/2016-09-23-lyer/</link>
+      <pubDate>Fri, 23 Sep 2016 15:51:19 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-09-23-lyer/</guid>
+      <description>&lt;p&gt;【批判的に】&lt;/p&gt;
+&lt;p&gt;自分にうそをつく、というのは本人がそうならないように気を付けていても発生することであるように思われる。「＊＊が好きだ」とか「＊＊になりたい」とかいったある種のポジティブな思い込みとそれに基づく努力（および努力しているという自己評価）は決して悪いことじゃない。でもなぜか、自分にうそをついているな。と感じさせる何かがにじみ出ていることがある。それは意固地だったり、プライドだったり、いろいろな歴史的な、その人の人生的な経緯や積み重なりが生み出してしまうのかもしれない。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>予定納税減額申請書</title>
+      <link>https://tokiwatch.github.io/legacy/2016-07-04-prepaid-tax/</link>
+      <pubDate>Mon, 04 Jul 2016 16:20:48 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-07-04-prepaid-tax/</guid>
+      <description>&lt;p&gt;タイトルが堅苦しくなってしまった。。。。&lt;/p&gt;
+&lt;p&gt;昨年度の転職で、確定申告での追加支払いが若干大きくなってしまったため、初めて予定納税の通知がきた。基本的に税金はちゃんと払うのが当然と考えているのですが、額としては大きく、昨年度限りの現象なので、後で還付金を請求するのもちょっと面倒でもある。そこで、__減額申請__というのをすることにした。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>リモートワーク、在宅勤務について思ったこと</title>
+      <link>https://tokiwatch.github.io/legacy/2016-06-23-remote-work/</link>
+      <pubDate>Thu, 23 Jun 2016 14:01:41 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2016-06-23-remote-work/</guid>
+      <description>&lt;p&gt;某社のリモートワークが話題になっているのですが、場に集う事自体が重要な仕事の要素になることがあります。これはもしかしたら、両方体験して初めて分かることなのかもしれません。&lt;/p&gt;
+&lt;p&gt;米Yahoo! ではリモートワークにするとけっこうサボったので戻したという話がありますが、こういうのは、そもそも、「監視されてないとダメな人」だったからなのであって、話になりません。&lt;/p&gt;
+&lt;p&gt;じゃあ、「自律的に仕事ができる人」であればリモートワークは大丈夫なのか、というと、役割分担が明確で、その日その日の（あるいはその週の、その月の、その年の）やるべきことが明確で、それができればOKという仕事であれば、おそらく大丈夫でしょう。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>blogをデプロイするまでの作業手順</title>
+      <link>https://tokiwatch.github.io/legacy/2015-12-12-deploy-memo/</link>
+      <pubDate>Sat, 12 Dec 2015 08:56:50 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2015-12-12-deploy-memo/</guid>
+      <description>&lt;p&gt;Octopressでghithub.comにブログを公開するまでの手順を以下にざっくりまとめます。
+(主に自分用)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>移動</title>
+      <link>https://tokiwatch.github.io/legacy/2015-12-12-hello-world/</link>
+      <pubDate>Sat, 12 Dec 2015 07:49:54 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2015-12-12-hello-world/</guid>
+      <description>&lt;p&gt;ブログをこちらに移しました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>wgetの小技</title>
+      <link>https://tokiwatch.github.io/legacy/2012-07-17-5774795153469416129/</link>
+      <pubDate>Tue, 17 Jul 2012 22:04:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2012-07-17-5774795153469416129/</guid>
+      <description>&lt;p&gt;ファイル名に日本語文字列が含まれてしまっている場合のwgetでのミラーリングは下記のコマンドでOK&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;wget -m --restrict-file-names=nocontrol -k http://hogehoge.example.
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://tokiwatch.github.io/legacy/2012-07-09-6235933008739113590/</link>
+      <pubDate>Mon, 09 Jul 2012 09:07:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2012-07-09-6235933008739113590/</guid>
+      <description>&lt;p&gt;文章を書くことは&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>デザイン会社の営業</title>
+      <link>https://tokiwatch.github.io/legacy/2011-09-22-8554084637569397755/</link>
+      <pubDate>Thu, 22 Sep 2011 09:54:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-09-22-8554084637569397755/</guid>
+      <description>&lt;p&gt;今、参加している会社では、僕の肩書は研究開発担当ディレクターとなっている。その主な仕事は、技術や技法の開発、案件に関連した調査は当然として、新規顧客との初期段階での打ち合わせや提案の基本構想を検討することなどが含まれている。前半は肩書と直結しているが、後半は、いわゆる営業と言っても違和感はないものだろう。実際、僕の仕事の大部分は顧客との打ち合わせや顧客に対しての提案の類を作るための作業になっている。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>blogの再開</title>
+      <link>https://tokiwatch.github.io/legacy/2011-09-18-7683475601622562706/</link>
+      <pubDate>Sun, 18 Sep 2011 00:26:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-09-18-7683475601622562706/</guid>
+      <description>&lt;p&gt;Blogを再開することにした。&lt;/p&gt;
+&lt;p&gt;震災以降、抱えていたプロジェクトの完了や転職などがあり、なかなか原稿を書く時間が確保できていなかったのだが、ようやく少し書くことに意識を向けられるようになったからだ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>コンテンツでできる支援</title>
+      <link>https://tokiwatch.github.io/legacy/2011-03-13-2802032191509887958/</link>
+      <pubDate>Sun, 13 Mar 2011 11:10:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-03-13-2802032191509887958/</guid>
+      <description>&lt;p&gt;子ども向け、子育て向けの情報を以下にまとめます。&lt;/p&gt;
+&lt;p&gt;コンテンツでできる支援もある。エンタテインメントでできる支援もある。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>研究のイメージ</title>
+      <link>https://tokiwatch.github.io/legacy/2011-01-27-1142649260875921718/</link>
+      <pubDate>Thu, 27 Jan 2011 18:44:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-01-27-1142649260875921718/</guid>
+      <description>&lt;p&gt;質的研究法関連のことを学生に話していてたまに、「研究」ということについてのイメージできていない学生に出会うことがある。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>つくばチャレンジ2010(番外編)</title>
+      <link>https://tokiwatch.github.io/legacy/2011-01-27-8250412059838484800/</link>
+      <pubDate>Thu, 27 Jan 2011 18:43:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-01-27-8250412059838484800/</guid>
+      <description>&lt;p&gt;つくばチャレンジ(番外編)&lt;/p&gt;
+&lt;p&gt;2010年(今年)の1月9日に、バンダイナムコ未来研究所において、2009年度のつくばチャレンジのしめくくりとして、シンポジウムが開催された。そこで、僕の本年度のつくばチャレンジへの取材のしめくくりとして、ここに番外編としてまとめたいと思う。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Digital Oil Painting</title>
+      <link>https://tokiwatch.github.io/legacy/2011-01-27-55139456380201450/</link>
+      <pubDate>Thu, 27 Jan 2011 18:42:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-01-27-55139456380201450/</guid>
+      <description>&lt;p&gt;科学技術進行機構CRESTデジタルメディア領域の研究テーマの一つとして藤端まさきを代表として取り組まれてきた研究が、油絵シミュレータである。このシンポジウムは展覧会として研究成果を世に問うにあたって開催された。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ipadは紙</title>
+      <link>https://tokiwatch.github.io/legacy/2011-01-27-2041683400655520057/</link>
+      <pubDate>Thu, 27 Jan 2011 18:41:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-01-27-2041683400655520057/</guid>
+      <description>&lt;p&gt;iPadは紙&lt;/p&gt;
+&lt;p&gt;Kindleが本という形で流通してきた整えられた情報に新しい形を与え、流通できるようにした。&lt;/p&gt;
+&lt;p&gt;それに対してiPadは新しい紙なのだ。とあえて言いたい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ipad</title>
+      <link>https://tokiwatch.github.io/legacy/2011-01-27-2102097749464898557/</link>
+      <pubDate>Thu, 27 Jan 2011 18:40:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2011-01-27-2102097749464898557/</guid>
+      <description>&lt;p&gt;友人の会社のご好意で、ipadを触らせてもらった。&lt;/p&gt;
+&lt;p&gt;触る前の先入観として以下のようなことを思っていた。&lt;/p&gt;
+&lt;p&gt;1、重いだろう。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>質的研究法の入門ガイド</title>
+      <link>https://tokiwatch.github.io/legacy/2010-12-21-3821618277905712205/</link>
+      <pubDate>Tue, 21 Dec 2010 22:20:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2010-12-21-3821618277905712205/</guid>
+      <description>&lt;p&gt;質的研究法というのがある。&lt;/p&gt;
+&lt;p&gt;僕が研究のお手伝いをさせていただいている大学院ではこの質的研究法が重要な方法論になっている。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bloggerでProcessing.js</title>
+      <link>https://tokiwatch.github.io/legacy/2010-01-02-630616795923893552/</link>
+      <pubDate>Sat, 02 Jan 2010 23:17:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2010-01-02-630616795923893552/</guid>
+      <description>&lt;p&gt;表題の通りで、手順は、全く難しくない。&lt;/p&gt;
+&lt;p&gt;下準備として、外部のサイトにjsファイルを保管し、bloggerから呼び出せるようにする必要がある。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bloggerでjquery</title>
+      <link>https://tokiwatch.github.io/legacy/2010-01-02-2902937220399134647/</link>
+      <pubDate>Sat, 02 Jan 2010 15:09:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2010-01-02-2902937220399134647/</guid>
+      <description>&lt;p&gt;BloggerでjQueryを利用する場合、googleがAPIを通じて提供しているjQueryを利用するのが早い。&lt;/p&gt;
+&lt;p&gt;手順は、下記のようになる。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>twitter研究会 ハッシュタグ</title>
+      <link>https://tokiwatch.github.io/legacy/2009-12-07-20985503820046681/</link>
+      <pubDate>Mon, 07 Dec 2009 10:40:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-12-07-20985503820046681/</guid>
+      <description>&lt;p&gt;先日、慶應義塾大学SFCで開催されたTwitter研究会でのtsudaりじゃなくてtwitterのハッシュタグのまとめが以下のURLで公開されているのでとりあえずメモ。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://kiwofusi.sakura.ne.jp/hashtag/logs/20091205twitterconf.html&#34;&gt;http://kiwofusi.sakura.ne.jp/hashtag/logs/20091205twitterconf.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>国の政策について考えてみた。</title>
+      <link>https://tokiwatch.github.io/legacy/2009-12-06-5000076272649511820/</link>
+      <pubDate>Sun, 06 Dec 2009 11:11:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-12-06-5000076272649511820/</guid>
+      <description>&lt;p&gt;科学技術に対する今回の仕分けは、およそ完了した状況にあるが、最終決着はおそらく年明けまで持ち越すであろう。大臣間での予算確定に向けた折衝の中で全ては決まるのだ。これまでのことが茶番になるのかはの結論は、そこまで待つ必要がある。なお、どれを茶番とするかは個々人の価値観や立場にも依存するので、ここではどれとはあえて指定しない。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://tokiwatch.github.io/legacy/2009-11-18-7029904812094714760/</link>
+      <pubDate>Wed, 18 Nov 2009 21:38:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-11-18-7029904812094714760/</guid>
+      <description>&lt;p&gt;Typepad Microというのができたそうなので、とりあえず、テストをしてみます。ダッシュボードから簡単に投稿できるというのはこれはこれで便利ですね。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>子供載せ自転車</title>
+      <link>https://tokiwatch.github.io/legacy/2009-11-15-5224101162678367739/</link>
+      <pubDate>Sun, 15 Nov 2009 23:12:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-11-15-5224101162678367739/</guid>
+      <description>&lt;p&gt;我が家は自動車を所有していないので、主たる移動手段は電車と自転車である。&lt;/p&gt;
+&lt;p&gt;電車の場合の困難は、子どもが小さい間は、グズられたりすることにあるのだが、これは我が家では、電車を好きになるように教育するとう方法で解決した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>公共事業仕分け対象リスト（のこぴぺ）</title>
+      <link>https://tokiwatch.github.io/legacy/2009-11-10-8517631404033297587/</link>
+      <pubDate>Tue, 10 Nov 2009 21:40:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-11-10-8517631404033297587/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://sankei.jp.msn.com/economy/finance/091109/fnc0911092103015-n1.htm&#34;&gt;MSN産経ニュース&lt;/a&gt;からのコピー&lt;/p&gt;
+&lt;p&gt;　【第１ワーキンググループ（ＷＧ）】&lt;/p&gt;
+&lt;p&gt;（内閣府）政府広報▽青少年健全育成に関する普及・啓発▽食育に関する普及・啓発▽少子化社会対策に関する普及・啓発▽高齢化社会対策に関する普及・啓発▽バリア・フリー・ユニバーサルデザイン推進に関する普及・啓発▽障害者施策に関する普及・啓発▽交通安全対策に関する普及・啓発▽犯罪被害者等に関する普及・啓発▽自殺対策に関する普及・啓発▽現場の出番創出モデル調査&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>歴史</title>
+      <link>https://tokiwatch.github.io/legacy/2009-09-24-5156842157279001037/</link>
+      <pubDate>Thu, 24 Sep 2009 06:20:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-09-24-5156842157279001037/</guid>
+      <description>&lt;p&gt;我々、人は歴史的な生き物だ。&lt;/p&gt;
+&lt;p&gt;歴史的という言葉をここで使うのは、我々の一人一人は歴史的だからである。それぞれが個々に歴史(=人生)を持ち、その中で&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>理解の物語あるいは似非科学の科学性</title>
+      <link>https://tokiwatch.github.io/legacy/2009-09-24-1615157538856429244/</link>
+      <pubDate>Thu, 24 Sep 2009 06:19:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-09-24-1615157538856429244/</guid>
+      <description>&lt;p&gt;twitterで議論になっていた話題を少しひっぱって書く。&lt;/p&gt;
+&lt;p&gt;我々人間の多くは、物事を理解する際に、物語が必要となる。ここでいう物語とは昔話のようなものではなく、或る種の因果関係の連鎖のモデルに落とし込むということである。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sep.11</title>
+      <link>https://tokiwatch.github.io/legacy/2009-09-12-2408494266147503650/</link>
+      <pubDate>Sat, 12 Sep 2009 10:05:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-09-12-2408494266147503650/</guid>
+      <description>&lt;p&gt;随分過ぎてしまったが、9月11日があった。&lt;/p&gt;
+&lt;p&gt;9月11日という日はとても多くの人にとって、感傷的になる日だ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>免責事項等</title>
+      <link>https://tokiwatch.github.io/legacy/2009-08-31-9206843753116483547/</link>
+      <pubDate>Mon, 31 Aug 2009 09:32:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-08-31-9206843753116483547/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;このblogの記事の著作権の一切を放棄しません。&lt;/li&gt;
+&lt;li&gt;このblogの記事を引用する場合は、出典のわかる形式で実施されるものについては全て許諾します。&lt;/li&gt;
+&lt;li&gt;このblogの記事は、特に記載の無い限り、管理者である常盤の個人的な見解に基いています。&lt;/li&gt;
+&lt;li&gt;このblogの記事のうち、特に技術的な項目に関して、その内容によっていかなる問題が生じても、一切責任を負いません。全て自己責任でご利用ください。&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>天才</title>
+      <link>https://tokiwatch.github.io/legacy/2009-06-22-4609193517969555887/</link>
+      <pubDate>Mon, 22 Jun 2009 18:49:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-06-22-4609193517969555887/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://anond.hatelabo.jp/20090622142028&#34;&gt;http://anond.hatelabo.jp/20090622142028&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;増田にトラックバックするべきかは迷うところなのだが、ちょっとだけ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>眼鏡</title>
+      <link>https://tokiwatch.github.io/legacy/2009-06-19-2058630636526062479/</link>
+      <pubDate>Fri, 19 Jun 2009 18:02:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-06-19-2058630636526062479/</guid>
+      <description>&lt;p&gt;最近、運転免許の更新があったため、久し振りに眼鏡を新調することにした。&lt;/p&gt;
+&lt;p&gt;眼鏡屋で視力を計測し、レンズを合せてみたところ、どうも近くも遠くもあわないという状態だった。どうやら老眼がはじまったということらしい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>スパコン開発は宮大工と同じ</title>
+      <link>https://tokiwatch.github.io/legacy/2009-05-16-2249968583639184491/</link>
+      <pubDate>Sat, 16 May 2009 16:33:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-05-16-2249968583639184491/</guid>
+      <description>&lt;p&gt;数日前、理研の進める汎用京速計算機の開発から、NECが離脱する旨の報道があった。&lt;/p&gt;
+&lt;p&gt;複数のソースをまとめると、NECの離脱は、計算機(クラスタ)の使用する計算機のうちベクトル型コンピュータの詳細設計が完了したタイミングで、離脱の趣旨は、実際の製造の段階での100億円程度の負担が、昨今の景況から難しいという判断をしたもののようだ。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SUN&#43;ORACLE</title>
+      <link>https://tokiwatch.github.io/legacy/2009-04-22-2194289868380784997/</link>
+      <pubDate>Wed, 22 Apr 2009 03:13:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-04-22-2194289868380784997/</guid>
+      <description>&lt;p&gt;SunをORACLEが買収したという一報を，昨夜知った．&lt;/p&gt;
+&lt;p&gt;Sunのサーバは大学院での普段の作業環境だったので，一つの時代の区切りとして，なんとなく感傷的になった．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu Server for VirtualBox</title>
+      <link>https://tokiwatch.github.io/legacy/2009-04-18-7835760711943558166/</link>
+      <pubDate>Sat, 18 Apr 2009 15:59:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-04-18-7835760711943558166/</guid>
+      <description>&lt;p&gt;僕は開発環境として、VirtualBox上でUbuntuのサーバエディションを使用している。&lt;/p&gt;
+&lt;p&gt;UbuntuはLinuxのメジャーなディストリビューションで、、、といったことは、他所で過分に語られているのでここでは割愛するが、サーバエディションをVirtualBox上の仮想マシンにインストールするする際に注意すべき点があるので報告しておく。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ちょっと違うんじゃないかな。</title>
+      <link>https://tokiwatch.github.io/legacy/2009-04-07-2413839767634487181/</link>
+      <pubDate>Tue, 07 Apr 2009 07:59:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-04-07-2413839767634487181/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://d.hatena.ne.jp/teruyastar/20090406/1238950447&#34;&gt;http://d.hatena.ne.jp/teruyastar/20090406/1238950447&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;僕自身は天才では断じてないのだが、仕事柄、相当な数の天才とやりとりしてきたという自負はある。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dropboxへの既存ディレクトリの追加</title>
+      <link>https://tokiwatch.github.io/legacy/2009-03-20-5329298881946773235/</link>
+      <pubDate>Fri, 20 Mar 2009 18:18:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-03-20-5329298881946773235/</guid>
+      <description>&lt;p&gt;Dropboxはインストールした段階では、Dropboxフォルダの中のデータのみをシンクする。&lt;/p&gt;
+&lt;p&gt;しかし、アプリケーションによってはそれが問題となる場合がある。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dropbox と vim</title>
+      <link>https://tokiwatch.github.io/legacy/2009-03-14-2719800193439849699/</link>
+      <pubDate>Sat, 14 Mar 2009 11:18:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-03-14-2719800193439849699/</guid>
+      <description>&lt;p&gt;通常、vimを立ち上げると、そのディレクトリの中でswapファイルが生成される。&lt;/p&gt;
+&lt;p&gt;Dropboxのディレクトリ(フォルダ)の中でもそれは同じである。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>イベントのご案内</title>
+      <link>https://tokiwatch.github.io/legacy/2009-03-13-4356853791426732794/</link>
+      <pubDate>Fri, 13 Mar 2009 04:17:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-03-13-4356853791426732794/</guid>
+      <description>&lt;p&gt;普段は、技術と子育ての話題ばかりですが、今回はイベントのご案内。&lt;/p&gt;
+&lt;p&gt;僕の後輩が企画している下記のイベントがあります。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>それは大学の先生の仕事か?</title>
+      <link>https://tokiwatch.github.io/legacy/2009-02-26-2209495227461329424/</link>
+      <pubDate>Thu, 26 Feb 2009 18:30:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-02-26-2209495227461329424/</guid>
+      <description>&lt;p&gt;価値の判断基準が自分の外にある人間は表現者になれない&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://d.hatena.ne.jp/next49/20090222/p2&#34;&gt;http://d.hatena.ne.jp/next49/20090222/p2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大学院の教授がクソだと言われる一つの理由&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://anond.hatelabo.jp/20090223034908&#34;&gt;http://anond.hatelabo.jp/20090223034908&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>blogのバックアップ</title>
+      <link>https://tokiwatch.github.io/legacy/2009-02-21-7454460153349063209/</link>
+      <pubDate>Sat, 21 Feb 2009 17:35:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-02-21-7454460153349063209/</guid>
+      <description>&lt;p&gt;Doblogのデータ障害が2ちゃんねるやblog圏で話題にのぼっている。&lt;/p&gt;
+&lt;p&gt;blogサービスの本質は、何かということを考えると、データを置くためのサーバのディスクスペースと、そのデータへのアクセスのためのインタフェースの提供でしかない。ここで言うインタフェースとは、ユーザが閲覧するwebsiteとしてのblogだったり、blogに記事を入力するための画面だったり、RSSの配信だったりする。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>技術者倫理</title>
+      <link>https://tokiwatch.github.io/legacy/2009-02-11-3251117842935705475/</link>
+      <pubDate>Wed, 11 Feb 2009 18:07:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-02-11-3251117842935705475/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://app.blog.livedoor.jp/taya/tb.cgi/52165368&#34;&gt;忙中小春日和:読書日記&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;たまにはトラックバックなぞする。&lt;/p&gt;
+&lt;p&gt;技術者倫理については、以下の資料も参考にされたい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacPorts上のptex</title>
+      <link>https://tokiwatch.github.io/legacy/2009-01-27-2438462640437955727/</link>
+      <pubDate>Tue, 27 Jan 2009 11:17:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-01-27-2438462640437955727/</guid>
+      <description>&lt;p&gt;MacPorts上でpTeXパッケージを利用する際、一部の学会のスタイルファイルが上手くコンパイルされないという問題が僕の手元の環境で数日前に発生した。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vim&#43;python</title>
+      <link>https://tokiwatch.github.io/legacy/2009-01-18-6435110434910549201/</link>
+      <pubDate>Sun, 18 Jan 2009 14:30:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2009-01-18-6435110434910549201/</guid>
+      <description>&lt;p&gt;vimsh.vimをfinkパッケージ管理環境下で使用できるようにすることを目的に、fink版のvim(-nox)のコンパイルオプションを変更し、別パッケージ化したので手順を公開する。&lt;/p&gt;
+&lt;p&gt;Finkを利用しない方法としては、MacPortsを利用するという方法もある。vimに関する問題だけを解決する場合はMacPortsを利用する方がより適切である。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://tokiwatch.github.io/legacy/2008-12-31-2652174834624844008/</link>
+      <pubDate>Wed, 31 Dec 2008 01:49:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-12-31-2652174834624844008/</guid>
+      <description>&lt;p&gt;blog移転のお知らせ&lt;/p&gt;
+&lt;p&gt;Blogをはてなダイアリーに移すことになりました。新しいBlogは&lt;a href=&#34;http://d.hatena.ne.jp/tokiwatch/&#34;&gt;こちらです。&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>goshでreadline</title>
+      <link>https://tokiwatch.github.io/legacy/2008-12-30-3075395620059887245/</link>
+      <pubDate>Tue, 30 Dec 2008 20:42:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-12-30-3075395620059887245/</guid>
+      <description>&lt;p&gt;最近、ほとんどのプログラムをGaucheで作成している。&lt;/p&gt;
+&lt;p&gt;Gaucheがなにかについては、以下のサイトに詳しい。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://tokiwatch.github.io/legacy/2008-11-25-6911510360483322003/</link>
+      <pubDate>Tue, 25 Nov 2008 00:30:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-11-25-6911510360483322003/</guid>
+      <description>&lt;p&gt;sorry this is test.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>つくばチャレンジ2008</title>
+      <link>https://tokiwatch.github.io/legacy/2008-11-20-5848707101852472849/</link>
+      <pubDate>Thu, 20 Nov 2008 23:31:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-11-20-5848707101852472849/</guid>
+      <description>&lt;p&gt;今日、明日の2日間、つくばチャレンジの本戦が開催されている。&lt;/p&gt;
+&lt;p&gt;つくばチャレンジは、筑波駅周辺の市街地を利用した、自律走行ロボットの合同走行会である。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>機密文書</title>
+      <link>https://tokiwatch.github.io/legacy/2008-11-16-1161820189788755413/</link>
+      <pubDate>Sun, 16 Nov 2008 20:47:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-11-16-1161820189788755413/</guid>
+      <description>&lt;p&gt;大学の研究員という職業は、職業上の機密が意外に多い。&lt;/p&gt;
+&lt;p&gt;特許関連や未投稿の論文、学生の住所に関する情報など職業上の機密と言われるものに属する情報は作業対象のほとんどを占めている。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Media 2.0</title>
+      <link>https://tokiwatch.github.io/legacy/2008-11-05-685641326463628510/</link>
+      <pubDate>Wed, 05 Nov 2008 18:46:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-11-05-685641326463628510/</guid>
+      <description>&lt;p&gt;オバマ氏が次期大統領に就任することとなった。&lt;/p&gt;
+&lt;p&gt;現時点での報道では、民主党政権奪回、および初の黒人大統領という2つの点に注目されているが、今後政策面に話題は移ることになるだろう。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Macosx上のVirtualBoxのゲストOSへのssh接続</title>
+      <link>https://tokiwatch.github.io/legacy/2008-10-22-120382101486075940/</link>
+      <pubDate>Wed, 22 Oct 2008 10:20:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-10-22-120382101486075940/</guid>
+      <description>&lt;p&gt;ちょっとてこづったので、記録を残しておく。&lt;/p&gt;
+&lt;p&gt;接続のための手順は、実はVirtualBoxのマニュアルに記載されているのだが、意外と見つけるまでに時間がかかった。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Docからのテスト</title>
+      <link>https://tokiwatch.github.io/legacy/2008-10-20-4141397128708483408/</link>
+      <pubDate>Mon, 20 Oct 2008 02:33:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-10-20-4141397128708483408/</guid>
+      <description>&lt;p&gt;Google Docからのテスト&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>結婚式</title>
+      <link>https://tokiwatch.github.io/legacy/2008-10-20-7211997960301498954/</link>
+      <pubDate>Mon, 20 Oct 2008 02:15:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-10-20-7211997960301498954/</guid>
+      <description>&lt;p&gt;友人(女子)の結婚パーティーが今日あった。&lt;/p&gt;
+&lt;p&gt;旧**大使館を改装した会場は、実に華やいだ雰囲気で、明るい談笑がいたるところで繰り広げられていた。新郎新婦の人望の高さを感じさせた。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Softbankモバイル</title>
+      <link>https://tokiwatch.github.io/legacy/2008-10-20-5360537994582028751/</link>
+      <pubDate>Mon, 20 Oct 2008 02:06:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-10-20-5360537994582028751/</guid>
+      <description>&lt;p&gt;少し前だが、iPhnoeを購入し自宅で携帯電話として利用しようとしたときに、自宅の電波の状態が非常に悪い状態であることに気づいた。&lt;/p&gt;
+&lt;p&gt;僕は携帯電話を利用するときはほとんど家内(自宅)に電話をするためだったので、自宅にいると携帯電話を利用することはまずなかった。(なぜならば、奥さんは家にいるのだから)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>携帯からの投稿のテスト</title>
+      <link>https://tokiwatch.github.io/legacy/2008-09-28-24067395936682857/</link>
+      <pubDate>Sun, 28 Sep 2008 10:50:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-09-28-24067395936682857/</guid>
+      <description>&lt;p&gt;試しています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://tokiwatch.github.io/legacy/2008-09-07-2797012326953188300/</link>
+      <pubDate>Sun, 07 Sep 2008 23:54:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-09-07-2797012326953188300/</guid>
+      <description>&lt;p&gt;久し振りにblogを更新することにした。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open ID</title>
+      <link>https://tokiwatch.github.io/legacy/2008-01-23-3611000512590128496/</link>
+      <pubDate>Wed, 23 Jan 2008 13:40:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/legacy/2008-01-23-3611000512590128496/</guid>
+      <description>&lt;p&gt;bloggerがOpen IDに対応したので，早速設定．TypeKeyサービスも使っているで，どちらをメインにするのかは検討が必要だが，全部Googleのアカウントで解決できるというメリットはすごく魅力的だ．悩む．&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
