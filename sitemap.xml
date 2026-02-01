@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tokiwatch.github.io/</loc>
-    <lastmod>2018-01-19T05:36:13+00:00</lastmod>
+    <loc>https://tokiwatch.github.io/tags/ai/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tokiwatch.github.io/categories/</loc>
-    <lastmod>2018-01-19T05:36:13+00:00</lastmod>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/categories/philosophy/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/posts/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/tags/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/tags/%E5%AF%BE%E8%A9%B1/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/tags/%E6%96%87%E6%98%8E%E8%AB%96/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tokiwatch.github.io/posts/2026-02-01-dialogue-by-the-bonfire/</loc>
+    <lastmod>2026-02-01T15:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tokiwatch.github.io/legacy/2018-01-19-hugo_update/</loc>
     <lastmod>2018-01-19T05:36:13+00:00</lastmod>
@@ -553,8 +574,6 @@
   </url><url>
     <loc>https://tokiwatch.github.io/legacy/2008-01-23-3611000512590128496/</loc>
     <lastmod>2008-01-23T13:40:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tokiwatch.github.io/tags/</loc>
   </url><url>
     <loc>https://tokiwatch.github.io/profile/</loc>
   </url>

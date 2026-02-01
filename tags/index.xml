@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Bonfire Side</title>
+    <title>Tags on 焚き火の傍らで</title>
     <link>https://tokiwatch.github.io/tags/</link>
-    <description>Recent content in Tags on Bonfire Side</description>
+    <description>Recent content in Tags on 焚き火の傍らで</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>ja</language>
+    <lastBuildDate>Sun, 01 Feb 2026 15:00:00 +0900</lastBuildDate>
     <atom:link href="https://tokiwatch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://tokiwatch.github.io/tags/ai/</link>
+      <pubDate>Sun, 01 Feb 2026 15:00:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>対話</title>
+      <link>https://tokiwatch.github.io/tags/%E5%AF%BE%E8%A9%B1/</link>
+      <pubDate>Sun, 01 Feb 2026 15:00:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/tags/%E5%AF%BE%E8%A9%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文明論</title>
+      <link>https://tokiwatch.github.io/tags/%E6%96%87%E6%98%8E%E8%AB%96/</link>
+      <pubDate>Sun, 01 Feb 2026 15:00:00 +0900</pubDate>
+      <guid>https://tokiwatch.github.io/tags/%E6%96%87%E6%98%8E%E8%AB%96/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
