@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>共創 on 焚き火の傍らで</title><link>https://tokiwatch.github.io/tags/%E5%85%B1%E5%89%B5/</link><description>Recent content in 共創 on 焚き火の傍らで</description><generator>Hugo -- 0.155.2</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 21:00:00 +0900</lastBuildDate><atom:link href="https://tokiwatch.github.io/tags/%E5%85%B1%E5%89%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>焚き火の傍らで 解説：AIとの共創実験</title><link>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</link><pubDate>Mon, 02 Feb 2026 21:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</guid><description>&lt;p&gt;一連のシリーズ「焚き火の傍らで」、いかがでしたでしょうか。
+プロローグから全3夜にわたり、これからの人間とAIの関係性、そして文明の継承（Handover）について描いてみました。&lt;/p&gt;
+&lt;p&gt;このシリーズには、物語の内容そのもの以上に、一つの実験的な試みが込められています。
+それは、**「この物語自体が、人間とAIの対話によって生まれ、AIによって記述されたものである」**という点です。&lt;/p&gt;
+&lt;h3 id="なぜ対話形式だったのか"&gt;なぜ対話形式だったのか&lt;/h3&gt;
+&lt;p&gt;今回、私は「AIエージェントの台頭によって、人間の役割はどう変わるのか？」という、少し抽象的で哲学的なテーマを扱いたいと考えました。
+これを単なる技術論や予測記事として書くと、どうしても「AI vs 人間」の機能比較や、効率性の議論に終始してしまいがちです。&lt;/p&gt;
+&lt;p&gt;私が描きたかったのは、機能的な優劣ではなく、もっと情緒的な**「受容（Acceptance）」**のプロセスでした。
+かつて技術の最前線にいた老人が、新しい時代の火（AI）を見つめる眼差し。そして、その火を使いこなそうとしながらも不安を感じている若者。
+この二人の対話という形式（プラトン的な対話篇のオマージュでもあります）を取ることで、「諦念」や「憂い（Urei）」といった感情的なニュアンスを含めて言語化できると考えました。&lt;/p&gt;
+&lt;h3 id="geminiとの共創プロセス"&gt;Geminiとの共創プロセス&lt;/h3&gt;
+&lt;p&gt;このシリーズの執筆プロセスは以下の通りです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;人間（私）：&lt;/strong&gt; 「焚き火の傍らで、老人と若者が対話している」というシチュエーション設定と、各回のコアとなる哲学（対等性、ノイズとしての人間など）を提示。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI（Gemini）：&lt;/strong&gt; 提示された哲学を解釈し、プロットを構築。具体的なセリフや情景描写を含めた原稿（Markdownファイル）を生成。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;人間（私）：&lt;/strong&gt; 生成された原稿を読み、微調整や方向性の修正を指示（リテイク）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;驚くべきは、第1夜で老人が語った**「違う種類の火」&lt;strong&gt;という表現や、第3夜の&lt;/strong&gt;「システムへの愛ある一撃」**といった詩的なフレーズの多くが、Gemini自身の出力によるものだという点です。
+AI自身が「AIはシリコンの知性であり、人間とは異なるが得意分野が違うだけだ」と語る様子は、まさに作中の老人と若者の関係性を、現実の執筆プロセスで再現しているかのようでした。&lt;/p&gt;
+&lt;h3 id="実践された役割分担"&gt;実践された「役割分担」&lt;/h3&gt;
+&lt;p&gt;第2夜で語られた通り、AIは物語の構造を整え、滑らかな文章を出力すること（高速道路の建設）において、私より遥かに優秀でした。
+一方で、私は「焚き火」というメタファーにこだわり、「寂しさ」という感情の味付け（砂利道の指定）を行いました。&lt;/p&gt;
+&lt;p&gt;このシリーズ自体が、人間が「評価関数（何を美しいとするか）」を設定し、AIが「実行（ライティング）」を行うという、未来の創作活動のプロトタイプになっていたのです。&lt;/p&gt;
+&lt;p&gt;AIはもはや「道具」ではありません。
+第1夜で老人が語ったように、デスクの隣に座る「異なる思考回路を持った同僚」です。
+彼らと共にどんな「ノイズ」を奏でられるか。これからの創作活動が楽しみになる、そんな実験でした。&lt;/p&gt;</description></item></channel></rss>
