@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Homebrew on 焚き火の傍らで</title>
-    <link>https://tokiwatch.github.io/categories/homebrew/</link>
-    <description>Recent content in Homebrew on 焚き火の傍らで</description>
-    <generator>Hugo -- 0.155.1</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 12 Feb 2011 21:11:00 +0900</lastBuildDate>
-    <atom:link href="https://tokiwatch.github.io/categories/homebrew/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>homebrewのgnuplotでAquatermを使う</title>
-      <link>https://tokiwatch.github.io/legacy/2011-02-12-8542365196640098223/</link>
-      <pubDate>Sat, 12 Feb 2011 21:11:00 +0900</pubDate>
-      <guid>https://tokiwatch.github.io/legacy/2011-02-12-8542365196640098223/</guid>
-      <description>&lt;p&gt;内容はいつものとおり、表題のまま。&lt;/p&gt;
-&lt;p&gt;とあるデータ解析で、色々面倒なので、gnuplotをHomebrewでインストールしようとしたのだが、入るには入るのだがいろいろ面倒なことがあったので、まとめておく。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Homebrew on 焚き火の傍らで</title><link>https://tokiwatch.github.io/categories/homebrew/</link><description>Recent content in Homebrew on 焚き火の傍らで</description><generator>Hugo -- 0.155.1</generator><language>ja</language><lastBuildDate>Sat, 12 Feb 2011 21:11:00 +0900</lastBuildDate><atom:link href="https://tokiwatch.github.io/categories/homebrew/index.xml" rel="self" type="application/rss+xml"/><item><title>homebrewのgnuplotでAquatermを使う</title><link>https://tokiwatch.github.io/legacy/2011-02-12-8542365196640098223/</link><pubDate>Sat, 12 Feb 2011 21:11:00 +0900</pubDate><guid>https://tokiwatch.github.io/legacy/2011-02-12-8542365196640098223/</guid><description>&lt;p&gt;内容はいつものとおり、表題のまま。&lt;/p&gt;
+&lt;p&gt;とあるデータ解析で、色々面倒なので、gnuplotをHomebrewでインストールしようとしたのだが、入るには入るのだがいろいろ面倒なことがあったので、まとめておく。&lt;/p&gt;</description></item></channel></rss>
