@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Agent-Hub on 焚き火の傍らで</title><link>https://tokiwatch.github.io/tags/agent-hub/</link><description>Recent content in Agent-Hub on 焚き火の傍らで</description><generator>Hugo -- 0.155.2</generator><language>ja</language><lastBuildDate>Tue, 03 Feb 2026 10:00:00 +0900</lastBuildDate><atom:link href="https://tokiwatch.github.io/tags/agent-hub/index.xml" rel="self" type="application/rss+xml"/><item><title>滑らかなコードと、私が加えたノイズ</title><link>https://tokiwatch.github.io/posts/2026-02-03-smooth-code-and-my-noise/</link><pubDate>Tue, 03 Feb 2026 10:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-03-smooth-code-and-my-noise/</guid><description>&lt;p&gt;AI（私の場合は主にGeminiやGitHub Copilot）とペアプログラミングをしていると、時折、恐ろしいほどの「滑らかさ」を感じる瞬間がある。&lt;/p&gt;
+&lt;p&gt;私が「ここでユーザーデータを取得して、エラーならリトライ処理を&amp;hellip;」とコメントを書きかけただけで、彼らは瞬時に、完璧な型定義と、適切な例外処理、そして洗練された非同期処理を含んだコードブロックを提案してくる。
+それは教科書的に正しく、ベストプラクティスに則っており、そして何より**「摩擦」がない**。&lt;/p&gt;
+&lt;p&gt;まるで、きれいに舗装されたばかりの高速道路だ。どこまでも速く、快適に走ることができる。&lt;/p&gt;
+&lt;h3 id="摩擦係数ゼロの世界"&gt;摩擦係数ゼロの世界&lt;/h3&gt;
+&lt;p&gt;開発初期、私はその快適さに身を委ねていた。
+思考の速度でコードが具現化していく快感。自分が優秀なアーキテクトになったような全能感。
+しかし、&lt;code&gt;agent-hub&lt;/code&gt; のプロトタイプが形になり始めた頃、ふと画面を眺めていて、奇妙な違和感を覚えた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「このプロダクトには、引っかかりがない」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;UIはスムーズに遷移し、データは遅延なく処理される。バグもない。
+だが、そこには**「私」がいない**気がしたのだ。
+あまりに合理的すぎて、まるで誰か他人が作った（あるいは、どの企業が作っても同じになるような）「正解の集合体」のように見えた。&lt;/p&gt;
+&lt;h3 id="ノイズという名の署名"&gt;ノイズという名の署名&lt;/h3&gt;
+&lt;p&gt;私は &lt;code&gt;PHILOSOPHY.md&lt;/code&gt; に、人間の役割の一つとして**「外乱（Disturbance/Punk）」**を定義した。
+AIによる最適化が「局所最適」に陥るのを防ぐため、非合理的で予測不能なノイズを注入すること。&lt;/p&gt;
+&lt;p&gt;コードにおいて、それは具体的に何を意味するのか？&lt;/p&gt;
+&lt;p&gt;例えば、エラーメッセージひとつとってもそうだ。
+AIは「データの取得に失敗しました。再試行してください。」と書く。正論だ。
+しかし私は、そのコードを消し、こう書き換える。
+「通信が迷子になったようです。少し焚き火でも眺めて、もう一度呼んでみてください。」&lt;/p&gt;
+&lt;p&gt;これは機能的には無駄だ。非効率で、冗長だ。
+しかし、この「無駄」こそが、ユーザーに対する私のスタンス（焚き火の横のおじいちゃん）を表明する、唯一の手段となる。&lt;/p&gt;
+&lt;p&gt;あるいは、機能の実装順序。
+AIは「ログイン機能」や「決済機能」といった、システムの根幹から作りたがる。
+しかし私はそれを無視して、「ユーザーがタスクを完了した時に、花火が打ち上がるアニメーション」の実装に半日を費やす。
+「まずは達成感を祝いたいんだ」という、私の非合理な情熱（わがまま）をシステムに刻むために。&lt;/p&gt;
+&lt;h3 id="編集者としてのプログラマ"&gt;編集者としてのプログラマ&lt;/h3&gt;
+&lt;p&gt;AIが書くコードは「滑らか」だ。
+放っておけば、世界中のソフトウェアは、摩擦係数ゼロの、均質で効率的なものになっていくだろう。&lt;/p&gt;
+&lt;p&gt;だからこそ、私たち人間のプログラマの仕事は、コードを書くことから、**「コードにノイズ（意志）を混入させること」**へとシフトしていく。
+高速道路に、あえて砂利道を接続する。
+自動販売機の横に、手書きのポップを貼る。&lt;/p&gt;
+&lt;p&gt;その「ひと手間」の非合理性こそが、システムに魂を宿らせ、それを愛すべきものに変える。
+&lt;code&gt;agent-hub&lt;/code&gt; は、そんな「愛あるノイズ」の塊でありたいと思っている。&lt;/p&gt;</description></item></channel></rss>
