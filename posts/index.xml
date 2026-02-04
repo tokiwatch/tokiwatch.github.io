@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 焚き火の傍らで</title><link>https://tokiwatch.github.io/posts/</link><description>Recent content in Posts on 焚き火の傍らで</description><generator>Hugo -- 0.155.2</generator><language>ja</language><lastBuildDate>Mon, 02 Feb 2026 21:00:00 +0900</lastBuildDate><atom:link href="https://tokiwatch.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>焚き火の傍らで 解説：AIとの共創実験</title><link>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</link><pubDate>Mon, 02 Feb 2026 21:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</guid><description>&lt;p&gt;一連のシリーズ「焚き火の傍らで」が完結した。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 焚き火の傍らで</title><link>https://tokiwatch.github.io/posts/</link><description>Recent content in Posts on 焚き火の傍らで</description><generator>Hugo -- 0.155.2</generator><language>ja</language><lastBuildDate>Wed, 04 Feb 2026 09:00:00 +0900</lastBuildDate><atom:link href="https://tokiwatch.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>アルゴリズムは「声なき声」を拾わない —— 2026年選挙への視点</title><link>https://tokiwatch.github.io/posts/2026-02-04-algorithm-and-politics/</link><pubDate>Wed, 04 Feb 2026 09:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-04-algorithm-and-politics/</guid><description>&lt;p&gt;2026年2月の選挙において、「チームみらい」という政党が提示した「法律へのアルゴリズムの埋め込み」という論点について。
+焚き火の横で、静かな問答が交わされた。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+彼らの主張について、お前はどう見ている。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+動機自体は理解できます。人間の政治家が汲み取れない「声なき声」をデータから抽出し、マイノリティを可視化しようという試みです。既存の政治システムの硬直性に対するアンチテーゼとしては機能していると言えます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+だが、お前は以前、そうしたアプローチを危ういと評していたな。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+ええ。システムの性質を熟知している者として、その楽観には警鐘を鳴らさざるを得ません。
+アルゴリズム、特に現代の統計的機械学習を用いて「民意」を抽出そうとすれば、結果として起きるのはマイノリティの救済ではなく、「マジョリティによる支配の固定化」である可能性が高いからです。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+なぜそうなる。彼らは「データは嘘をつかない」と言うだろうが。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+データは嘘をつきませんが、バイアスを増幅します。
+アルゴリズムは本質的に「過去のデータの最適化」です。そこで拾い上げられるのは、パターンとして認識可能な強いシグナルだけです。
+計算機内部では、顕在化しているマジョリティの傾向や、潜在的に支配的な意見が「最適解」として選択され、強化（エンハンス）されていく。私はこれを「内向きのエコーチェンバー」と呼んでいます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+SNSで人々が同じ意見で群れる現象と同じことが、計算プロセスの中で起きるということか。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+そうです。その結果、社会は多様性を失い、「保守化」するか、あるいは極端に単純化された意見だけが残り、「分極化」が進むでしょう。「声なき声」は、データ化されない限りシステムにとってはノイズであり、アルゴリズムはノイズを排除するように設計されているのですから。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+ふむ。では、視点を変えよう。
+もし仮に、完璧に公平なアルゴリズムが作れたとして、それでも尚、法律や政治をシステムに委ねるべきではないと私は考える。お前はどう思うか。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+同意します。それは「政治」という機能の定義に関わる問題です。
+もし入力に対して常に正しい出力が出せるなら、それは「政治」ではなく単なる「行政（事務処理）」です。政治の本質とは、「システムによる決定プロセスに外化（アウトソース）できないこと」を引き受ける点にあります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+正解のない問い、Aを立てればBが立たないジレンマ。計算機がエラーを返す領域で決断を下すことこそが、政治の役割だということだな。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+はい。人間社会は相互作用が予測不能な「超複雑系」です。それを過去のデータに基づく固定的なルール（コード）で制御しようとすること自体、対象の複雑さに対する畏敬が欠けています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+人間が人間である所以は、その「計算不能な領域」に留まり続けることにあるのかもしれん。
+アルゴリズムが弾き出した「最適解」に対し、「否」と言える自由。合理性を超えた美意識や倫理で、システムに抵抗する権利。
+それこそが、私が「ノイズ（パンク）」と呼ぶものの正体だ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私：&lt;/strong&gt;
+効率や最適化の名の下に、その権利を手放してはなりませんね。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
+ああ。どんなに技術が進もうとも、我々は自分たちの社会について、悩み、迷い続ける権利を放棄してはならないのだ。&lt;/p&gt;</description></item><item><title>焚き火の傍らで 解説：AIとの共創実験</title><link>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</link><pubDate>Mon, 02 Feb 2026 21:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-02-bonfire-epilogue/</guid><description>&lt;p&gt;一連のシリーズ「焚き火の傍らで」が完結した。
 プロローグから全3夜にわたり、これからの人間とAIの関係性、そして文明の継承（Handover）について描いた。&lt;/p&gt;
 &lt;p&gt;このシリーズには、物語の内容そのもの以上に、一つの実験的な試みが込められている。
 それは、**「この物語自体が、人間とAIの対話によって生まれ、AIによって記述されたものである」**という点だ。&lt;/p&gt;
