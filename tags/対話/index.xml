@@ -18,7 +18,7 @@ AIが回す巨大で効率的な社会システムに対して、人間はただ
 &lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
 通信工学や信号処理の授業ではそう習うだろうね。だが、複雑系や進化論の視点では少し違う。
 完全に最適化され、完全に均衡が取れたシステムは、変化への適応力を失う。それは「停滞」であり、熱力学的な「死」だ。
-そこに外部から「ゆらぎ」――つまりノイズ――が加わることで、システムは新しい秩序（構造）を自己組織化するきっかけを得る。&lt;/p&gt;
+そこに外部から「ゆらぎ」――つまりノイズ――が加わることで、システムは新しい秩序（構造）を自己組織化&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;するきっかけを得る。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;若者：&lt;/strong&gt;
 ノイズが、進化の種になるということですか？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
@@ -27,7 +27,7 @@ AIエージェントたちは、与えられた「目的関数（ゴール）」
 だが、もしそのゴール自体が間違っていたら？ あるいは、環境が激変して、そのゴールが無意味になったら？
 最適化されたAIたちは、全員揃って崖から落ちていくかもしれない。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;若者：&lt;/strong&gt;
-レミングの行進のように……。&lt;/p&gt;
+レミングの行進&lt;sup id="fnref:2"&gt;&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref"&gt;2&lt;/a&gt;&lt;/sup&gt;のように……。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
 そこで人間の出番だ。
 君たちは非合理的で、気まぐれで、時に愚かだ。
@@ -53,7 +53,18 @@ AIに仕事を奪われることを恐れるのではなく、AIという最強�
 &lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
 ふふ、それは素晴らしいノイズだ。頂こうか。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;[完]&lt;/p&gt;</description></item><item><title>焚き火の傍らで 第2夜：滑らかな道と砂利道</title><link>https://tokiwatch.github.io/posts/2026-02-02-bonfire-smoothness/</link><pubDate>Mon, 02 Feb 2026 19:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-02-bonfire-smoothness/</guid><description>&lt;p&gt;&lt;strong&gt;場所：&lt;/strong&gt; 夜、焚き火の傍ら。炎が少し小さくなり、熾火（おきび）が赤く輝いている。
+&lt;div class="footnotes" role="doc-endnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;&lt;strong&gt;散逸構造 (Dissipative structures):&lt;/strong&gt; ノーベル化学賞受賞者イリヤ・プリゴジンが提唱。平衡状態から遠く離れた非平衡状態で、エネルギーの散逸に伴って生まれる秩序構造のこと。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;&lt;strong&gt;レミングの自殺:&lt;/strong&gt; レミングが集団自殺するという説は、1958年のディズニー映画『白い荒野』の演出によって広まった誤解であり、生物学的な習性ではないことが知られている。
+[完]&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description></item><item><title>焚き火の傍らで 第2夜：滑らかな道と砂利道</title><link>https://tokiwatch.github.io/posts/2026-02-02-bonfire-smoothness/</link><pubDate>Mon, 02 Feb 2026 19:00:00 +0900</pubDate><guid>https://tokiwatch.github.io/posts/2026-02-02-bonfire-smoothness/</guid><description>&lt;p&gt;&lt;strong&gt;場所：&lt;/strong&gt; 夜、焚き火の傍ら。炎が少し小さくなり、熾火（おきび）が赤く輝いている。
 &lt;strong&gt;登場人物：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;老人：&lt;/strong&gt; 文明のハンドオーバーを見守る観察者。&lt;/li&gt;
@@ -199,7 +210,7 @@ AIも同じです。「情報処理」という機能において、人間より
 諦念……ですか。それは敗北宣言のように聞こえます。私たちはAIを道具として使いこなし、より良い世界を作る主体であるはずです。諦める必要などないのでは？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;老人：&lt;/strong&gt;
 ふむ。「主体」か。
-生物学的に考えてごらん。地球規模の課題――気候変動、資源の分配、人口問題――これらはあまりに複雑になりすぎた。人間の脳の認知帯域幅（Bandwidth）では、もう処理しきれないのだよ。
+生物学的に考えてごらん。地球規模の課題――気候変動、資源の分配、人口問題――これらはあまりに複雑になりすぎた。人間の脳の認知帯域幅（Bandwidth）&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;では、もう処理しきれないのだよ。
 だとすれば、種の生存戦略として、解決の「実行機能」をより高い処理能力を持つ存在――AI――に委譲するのは、敗北ではなく必然的な進化だ。バトンタッチなのだよ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;若者：&lt;/strong&gt;
 機能を委譲する……。では、私たち人間には何が残るのですか？ 思考も、実行も、最適化もAIが担うなら、私たちはただの「遺伝子の運び屋」に成り下がるのでしょうか。&lt;/p&gt;
